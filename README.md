@@ -23,11 +23,12 @@ pip install numpy pandas scikit-learn matplotlib
 
 **1.Clone the Repository**
 
-**git clone https://github.com/Santa-28/PREDICTING-HOUSE-PRICES-USING-ML.git**
+**git clone https://github.com/selvakumarv57/HOUSE-PRICE-PREDICTION-USING-MACHINE-LEARNING.git**
 
-cd PREDICTING-HOUSE-PRICES-USING-ML
+cd HOUSE-PRICE-PREDICTION-USING
 
 **2.Prepare the Data**
+
 
 **Dataset Link: https://www.kaggle.com/datasets/vedavyasv/usa-housing**
 
